@@ -4,3 +4,4 @@ const productionConfig = require('./webpack.production');
 module.exports = merge(productionConfig, {
   optimization: { nodeEnv: 'testing' },
 });
+// Este es un comentario
