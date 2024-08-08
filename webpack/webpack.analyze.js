@@ -10,3 +10,4 @@ module.exports = smp.wrap(
     plugins: [new BundleAnalyzerPlugin()],
   })
 );
+// const webpackConfig =optional('./webpack.develop.js');
